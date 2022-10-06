@@ -11,5 +11,12 @@
 
     <artifactId>acorn-start</artifactId>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.viewwuyou</groupId>
+            <artifactId>view-common</artifactId>
+        </dependency>
+    </dependencies>
+
 
 </project>
