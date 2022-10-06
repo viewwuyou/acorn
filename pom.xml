@@ -8,6 +8,7 @@
         <module>acorn-blog</module>
         <module>acorn-domain</module>
         <module>acorn-client</module>
+        <module>acorn-service</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
