@@ -6,12 +6,13 @@
     <modules>
         <module>acorn-start</module>
         <module>acorn-blog</module>
-        <module>acron-domain</module>
+        <module>acorn-domain</module>
+        <module>acorn-client</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>2.7.3</version>
+        <version>2.7.4</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.viewwuyou</groupId>
@@ -20,7 +21,7 @@
     <name>acorn</name>
     <description>acorn</description>
     <properties>
-        <java.version>11</java.version>
+        <java.version>17</java.version>
         <revision>0.0.1-SNAPSHOT</revision>
         <view.version>1.0.0-SNAPSHOT</view.version>
     </properties>
